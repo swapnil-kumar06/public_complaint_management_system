@@ -50,20 +50,5 @@ PDF Reports	ReportLab
 Version Control	Git & GitHub
 
 
-public_complaint_management_system/
-│
-├── grievance_system/        # Project settings
-├── complaints/              # Core app
-│   ├── models.py
-│   ├── views.py
-│   ├── forms.py
-│   ├── admin.py
-│   ├── urls.py
-│   └── templates/complaints/
-│
-├── media/                   # Uploaded images
-├── templates/
-├── static/
-├── db.sqlite3               # (ignored in GitHub)
-├── manage.py
-└── README.md
+<img width="542" height="452" alt="image" src="https://github.com/user-attachments/assets/028ceca1-c8d8-449a-8173-83733ae59445" />
+
